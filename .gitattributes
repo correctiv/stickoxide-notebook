@@ -1,2 +1,10 @@
 
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2009NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2010NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2011NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2012NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2013NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2014NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2015NO2_1SMW_20150810.csv filter=lfs diff=lfs merge=lfs -text
+data/DE2015NO2_1SMW_20151006.csv filter=lfs diff=lfs merge=lfs -text
